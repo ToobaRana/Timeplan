@@ -1,0 +1,77 @@
+body {
+    font-family:sans-serif;
+    margin: 20px;
+    text-align:start;
+    background-color: floralwhite;
+}
+
+table {
+    background-color: darkgrey;
+    box-shadow: 0px 0px 20px black;
+    
+}
+
+th,td, table {
+    border: 1px solid grey;
+    padding: 5px;
+    text-align: center;
+        
+}
+
+
+th {
+    border-bottom: 3px solid black;
+}
+
+
+td, th {
+    width: 100px;
+    border-collapse: collapse;
+    font-weight: bold;
+}
+
+.hide {
+    empty-cells: hide;
+}
+
+.dag {
+    background-color: grey;
+    border-bottom: 3px solid black;
+}
+
+.tid {
+    background-color:floralwhite;
+    border: 3px solid black;
+}
+
+.blue {background-color: cadetblue
+}
+
+.pink {
+    background-color: pink;
+}
+
+.purple {
+    background-color: mediumpurple;
+}
+
+.green {
+    background-color: darkseagreen;
+}
+
+.yellow {
+    background-color: lightgoldenrodyellow;
+}
+
+.orange {
+    background-color: darkorange;
+}
+
+.turqoise {
+    background-color: paleturquoise;
+}
+
+.grey {
+    background-color: slategrey;
+}
+
